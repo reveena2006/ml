@@ -1,0 +1,11 @@
+offer,free,class
+Yes,Yes,Spam
+Yes,No,Spam
+Yes,Yes,Spam
+No,Yes,Spam
+No,No,Not Spam
+No,No,Not Spam
+Yes,No,Not Spam
+No,No,Not Spam
+No,Yes,Spam
+No,No,Not Spam
